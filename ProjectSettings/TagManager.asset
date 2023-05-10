@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Porte
   - Door
+  - DoorStudio
   layers:
   - Default
   - TransparentFX

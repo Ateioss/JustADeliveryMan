@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class mainMenu : MonoBehaviour
 {
     public void clickForPlay() {
-        SceneManager.LoadScene("test");
+        SceneManager.LoadScene("Delivery Studio");
     }
 
     public void quitGame() {
